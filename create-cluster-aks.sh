@@ -7,7 +7,7 @@ echo "--------------------------------------------------------------------------
 
 RESOURCE_GROUP_NAME=RG-Container-DSV
 RESOURCE_GROUP_VNET=RG-Network
-SUBSCRIPTION=e12107c8-9742-4ead-b7c6-de7e9d3d3af3
+SUBSCRIPTION=e12XXXc8-9742-4ead-b7c6-dXXX9d3d3af3
 LOCATION=centralus
 CLUSTER_NAME=aksClusterDelia
 VM_SIZE=standard_d2as_v5
